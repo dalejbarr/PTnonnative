@@ -5,8 +5,8 @@
  File            | Description                      |
 -----------------|---------------------------------|
  plottmp.RData   | Data for plotting               |
- pog.rds         | point of gaze data              |
- choice_data.rds | choice + RT data for each trial |
+ pog.rds pog.csv         | point of gaze data              |
+ choice\_data.rds choice\_data.csv | choice + RT data for each trial |
 
 ## Analysis scripts
 
